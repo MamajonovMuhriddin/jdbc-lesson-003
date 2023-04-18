@@ -86,4 +86,7 @@ public class UserEntity {
                 ", balance=" + balance +
                 '}';
     }
+
+    public void getBalance(Integer c) {
+    }
 }
